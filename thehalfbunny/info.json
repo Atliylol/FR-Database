@@ -4,16 +4,16 @@
 		"mp": 100
 	},
 	"char_info": { 
-		"name": "Half",
+		"name": "Atliy",
 		"age": 19,
 		"level": 1
 	},
 	"battle_info": {
-		"atk": 50,
-		"def": 45,
-		"agility": 20,
-		"spell": 70,
-		"iq": 110,
-		"luck": 50
+		"atk": 20,
+		"def": 4,
+		"agility": 30,
+		"spell": 5,
+		"iq": 128,
+		"luck": 20
 	}
 }
