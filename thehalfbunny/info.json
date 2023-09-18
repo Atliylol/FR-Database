@@ -14,7 +14,12 @@
 		"def": 4,
 		"agility": 30,
 		"spell": 5,
-		"iq": 128,
+		"iq": 110,
 		"luck": 20
+	},
+
+	"inventory": {
+		"inventory_id": [ 0,  0,  0,  0,  0,  0,  0,  0],
+		"inventory_amt":[ 0,  0,  0,  0,  0,  0,  0,  0]
 	}
 }

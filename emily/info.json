@@ -5,7 +5,7 @@
 		"gold": 60
 	},
 	"char_info": { 
-		"name": "Atliy",
+		"name": "Emily",
 		"age": 19,
 		"level": 1
 	},
@@ -14,7 +14,12 @@
 		"def": 45,
 		"agility": 20,
 		"spell": 70,
-		"iq": 110,
+		"iq": 128,
 		"luck": 50
+	},
+
+	"inventory": {
+		"inventory_id": [ 0,  0,  0,  0,  0,  0,  0,  0],
+		"inventory_amt":[ 0,  0,  0,  0,  0,  0,  0,  0]
 	}
 }
