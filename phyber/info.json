@@ -1,0 +1,25 @@
+{
+	"main_info": {
+		"health": 100,
+		"mp": 100,
+		"gold": 2
+	},
+	"char_info": { 
+		"name": "Phyber",
+		"age": 19,
+		"level": 1
+	},
+	"battle_info": {
+		"atk": 20,
+		"def": 10,
+		"agility": 25,
+		"spell": 75,
+		"iq": 98,
+		"luck": 70
+	},
+
+	"inventory": {
+		"inventory_id": [ 0,  0,  0,  0,  0,  0,  0,  0],
+		"inventory_amt":[ 0,  0,  0,  0,  0,  0,  0,  0]
+	}
+}
