@@ -2,20 +2,20 @@
 	"main_info": {
 		"health": 100,
 		"mp": 100,
-		"gold": 2
+		"gold": 400
 	},
 	"char_info": { 
-		"name": "Phyber Conway",
-		"age": 20, 
+		"name": "Chester Singh Hansen",
+		"age": 21,
 		"level": 1
 	},
 	"battle_info": {
-		"atk": 20,
-		"def": 10,
-		"agility": 25,
-		"spell": 75,
-		"iq": 98,
-		"luck": 70
+		"atk": 40,
+		"def": 35,
+		"agility": 40,
+		"spell": 10,
+		"iq": 85,
+		"luck": 10
 	},
 
 	"inventory": {
