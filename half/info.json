@@ -13,13 +13,13 @@
 		"atk": 20,
 		"def": 4,
 		"agility": 30,
-		"spell": 5,
+		"spell": 80,
 		"iq": 110,
 		"luck": 20
 	},
 
 	"inventory": {
-		"inventory_id": [ 0,  0,  0,  0,  0,  0,  0,  0],
-		"inventory_amt":[ 0,  0,  0,  0,  0,  0,  0,  0]
+		"inventory_id": [ 4,  0,  0,  0,  0,  0,  0,  0],
+		"inventory_amt":[ 1,  0,  0,  0,  0,  0,  0,  0]
 	}
 }
