@@ -12,8 +12,8 @@
 	"battle_info": {
 		"atk": 20,
 		"def": 10,
-		"agility": 25,
-		"spell": 75,
+		"agility": 40,
+		"spell": 25,
 		"iq": 98,
 		"luck": 70
 	},

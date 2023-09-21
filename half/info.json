@@ -10,7 +10,7 @@
 		"level": 1
 	},
 	"battle_info": {
-		"atk": 20,
+		"atk": 25,
 		"def": 4,
 		"agility": 30,
 		"spell": 80,
