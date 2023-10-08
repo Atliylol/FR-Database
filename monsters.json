@@ -2,11 +2,11 @@
 	"CURRENT_MONSTER": "Test",
 
 	"Test": {
-		"Name": "Loripsum",
-		"Desc": "esse eh um monstro de teste :3",
+		"Name": "Bixin",
+		"Desc": "Monstrinho de teste",
 
-		"MAX_HP": 100,
-		"HP": 100,
+		"MAX_HP": 666,
+		"HP": 69,
 
 		"Monster_Type": 0,
 		"Bg_Type": 0
