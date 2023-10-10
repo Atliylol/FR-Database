@@ -1,14 +1,24 @@
 {
-	"CURRENT_MONSTER": "Test",
+	"CURRENT_MONSTER": "None",
 
-	"Test": {
-		"Name": "Bixin",
-		"Desc": "Monstrinho de teste",
+	"None": {
+		"Name": "[ NENHUM ]",
+		"Desc": "Você não está batalhando com nenhum monstro.",
 
-		"MAX_HP": 666,
-		"HP": 69,
+		"MAX_HP": 0,
+		"HP": 0,
 
 		"Monster_Type": 0,
 		"Bg_Type": 0
+	},
+	"Porteiro": {
+		"Name": "O Porteiro",
+		"Desc": "Guarda o portão do reino dos demônios, ele vai acabar com você.",
+
+		"MAX_HP": 200,
+		"HP": 200,
+
+		"Monster_Type": 1,
+		"Bg_Type": 1
 	}
 }
