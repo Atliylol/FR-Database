@@ -1,12 +1,12 @@
 {
 	"main_info": {
-		"health": 10,
+		"health": 100,
 		"mp": 100,
 		"gold": 60
 	},
 	"char_info": { 
 		"name": "Emirii \"Emily\" Date",
-		"age": 19,
+		"age": 2000,
 		"level": 1
 	},
 	"battle_info": {
