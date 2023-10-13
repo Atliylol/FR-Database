@@ -11,11 +11,12 @@
 	},
 	"battle_info": {
 		"atk": 70,
-		"def": 35,
-		"agility": 40,
+		"def": 45,
+		"agility": 35,
 		"spell": 10,
-		"iq": 85,
-		"luck": 10
+		"iq": 130,
+		"luck": 10,
+		"can_magic": false
 	},
 
 	"inventory": {

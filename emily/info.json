@@ -6,16 +6,17 @@
 	},
 	"char_info": { 
 		"name": "Emirii \"Emily\" Date",
-		"age": 2000,
+		"age": 19,
 		"level": 1
 	},
 	"battle_info": {
-		"atk": 28,
-		"def": 30,
+		"atk": 35,
+		"def": 50,
 		"agility": 20,
 		"spell": 40,
-		"iq": 128,
-		"luck": 50
+		"iq": 100,
+		"luck": 50,
+		"can_magic": false
 	},
 
 	"inventory": {

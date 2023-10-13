@@ -10,12 +10,13 @@
 		"level": 1
 	},
 	"battle_info": {
-		"atk": 25,
-		"def": 4,
-		"agility": 30,
-		"spell": 80,
+		"atk": 26,
+		"def": 50,
+		"agility": 35,
+		"spell": 85,
 		"iq": 110,
-		"luck": 20
+		"luck": 21,
+		"can_magic": true
 	},
 
 	"inventory": {
