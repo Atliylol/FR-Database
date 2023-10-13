@@ -20,7 +20,9 @@
 	},
 
 	"inventory": {
-		"inventory_id": [ 1,  2,  8,  0,  0,  0,  0,  0],
-		"inventory_amt":[ 1,  1,  1,  0,  0,  0,  0,  0]
+		"inventory_id": [ 8,  1,  2,  0,  0,  0,  0,  0],
+		"inventory_amt":[ 1,  1,  1,  0,  0,  0,  0,  0],
+
+		"spells":	[ 1,  0,  0,  0]
 	}
 }
