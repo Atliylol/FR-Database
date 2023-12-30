@@ -1,6 +1,7 @@
 {
 	"main_info": {
-		"health": 100,
+		"max_health": 170,
+		"health": 170,
 		"mp": 100,
 		"gold": 400
 	},

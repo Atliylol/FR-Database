@@ -2,7 +2,7 @@
 	"CURRENT_MONSTER": "None",
 
 	"None": {
-		"Name": "[ NENHUM ]",
+		"Name": "Ninguém",
 		"Desc": "Você não está batalhando com nenhum monstro.",
 
 		"MAX_HP": 0,
@@ -13,12 +13,32 @@
 	},
 	"Porteiro": {
 		"Name": "O Porteiro",
-		"Desc": "Guarda o portão do reino dos demônios, ele vai acabar com você.",
+		"Desc": "O guardião dos portões do reino dos monstros.", 
 
-		"MAX_HP": 200,
-		"HP": 200,
+		"MAX_HP": 300,
+		"HP": 300,
 
 		"Monster_Type": 1,
 		"Bg_Type": 1
+	},
+	"Operador": {
+		"Name": "Operador De Pedágio",
+		"Desc": "O operador vigilante da Vila Escarlate os reconhece.",
+
+		"MAX_HP": 140,
+		"HP": 140,
+
+		"Monster_Type": 2,
+		"Bg_Type": 1
+	},
+	"XYZ": {
+		"Name": "[ X Y Z ]",
+		"Desc": "Modelo número 4.\nPronto para atacar",
+
+		"MAX_HP": 240,
+		"HP": 240,
+
+		"Monster_Type": 3,
+		"Bg_Type": 2
 	}
 }
