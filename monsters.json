@@ -3,7 +3,7 @@
 
 	"None": {
 		"Name": "Ninguém",
-		"Desc": "Você não está batalhando com nenhum monstro.",
+		"Desc": "Você não está batalhando com nenhum monstro.\n\"Mas ninguém veio.\"",
 
 		"MAX_HP": 0,
 		"HP": 0,
