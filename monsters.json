@@ -16,7 +16,7 @@
 		"Desc": "O guardião dos portões do reino dos monstros.", 
 
 		"MAX_HP": 30,
-		"HP": 270,
+		"HP": 220,
 
 		"Monster_Type": 1,
 		"Bg_Type": 1
