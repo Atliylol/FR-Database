@@ -21,8 +21,8 @@
 	},
 
 	"inventory": {
-		"inventory_id":	[ 4,  0,  0,  0,  0,  0,  0,  0],
-		"inventory_amt":[ 1,  0,  0,  0,  0,  0,  0,  0],
+		"inventory_id":	[ 4,  16,  0,  0,  0,  0,  0,  0],
+		"inventory_amt":[ 1,  1,  0,  0,  0,  0,  0,  0],
 
 		"spells":	[ 2,  3,  0,  0]
 	}
