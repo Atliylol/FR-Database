@@ -2,7 +2,7 @@
 	"main_info": {
 		"max_health": 120,
 		"health": 90,
-		"mp": 100,
+		"mp": 20,
 		"gold": 40
 	},
 	"char_info": { 
